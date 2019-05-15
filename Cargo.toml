@@ -1,0 +1,8 @@
+[package]
+name = "terminal-ui"
+version = "0.1.0"
+authors = ["Max Jöhnk <maxjoehnk@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+crossterm = "0.9"
